@@ -1,4 +1,4 @@
-﻿# <img src="https://github.com/ErythTV/Chocolatey_X-Air-Edit/blob/main/XAirEdit-Icon.png" width="48" height="48"/> [X32 Edit](https://github.com/ErythTV/Chocolatey_X-Air-Edit/)
+﻿# <img src="https://github.com/ErythTV/Chocolatey_X-Air-Edit/blob/main/XAirEdit-Icon.png" width="48" height="48"/> [X-Air Edit](https://github.com/ErythTV/Chocolatey_X-Air-Edit/)
 
 ## Features
 - Provides powerful remote control for all functions of the Behringer X-Air digital mixing console
