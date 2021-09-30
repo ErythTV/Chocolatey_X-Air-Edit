@@ -4,12 +4,12 @@
   <metadata>
     <id>x-air-edit</id>
     <version>1.7.1.0</version>
-    <packageSourceUrl>https://github.com/chtof/chocolatey-packages/tree/master/manual/x32-edit</packageSourceUrl>
+    <packageSourceUrl>https://github.com/ErythTV/Chocolatey_X-Air-Edit</packageSourceUrl>
     <owners>Eryth</owners>
     <title>X-AIR-Edit</title>
     <authors>Music Tribe Global Brands Ltd.</authors>
     <projectUrl>https://www.behringer.com/behringer/product?modelCode=P0AWP</projectUrl>
-    <iconUrl>https://play-lh.googleusercontent.com/3MXWXm5DaedEs_hwG07K78tZJgorroA1HjGQBVkgBOLpTEfO20Y1511cL6-4Ht9Y0EY</iconUrl>
+    <iconUrl>https://github.com/ErythTV/Chocolatey_X-Air-Edit/blob/main/XAirEdit-Icon.png</iconUrl>
     <copyright>Copyright © 2019 Music Tribe Global Brands Ltd. All rights reserved.</copyright>
     <licenseUrl>https://community.musictribe.com/pages/terms-of-service</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -27,9 +27,9 @@
 - Real-time level meters are shown for all audio channels, along with user-defined icons and names
 - Edit several consoles on the same network from just one PC by starting several instances of XControl
 - Executable files can be downloaded from behringer.com free of charge – no registration or installation procedure
-- Windows XP, Vista, Windows7 or Windows8, Mac OSX 10.6.8, 10.7 or 10.8, Linux tested with Ubuntu 12.04 with Wine
+- Windows XP, Vista, Windows7, Windows8 or Windows 10+, Mac OSX 10.6.8, 10.7 or 10.8, Linux tested with Ubuntu 12.04 with Wine
 
-![screenshot](https://cdn.jsdelivr.net/gh/chtof/chocolatey-packages/manual/x32-edit/screenshot.png)
+![screenshot](https://github.com/ErythTV/Chocolatey_X-Air-Edit/blob/main/Screenshot.PNG)
 ]]></description>
     <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
   </metadata>
